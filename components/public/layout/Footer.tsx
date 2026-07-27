@@ -57,8 +57,8 @@ export async function PublicFooter() {
                     <div>
                         <h4 className="text-xl font-bold mb-6">Legal</h4>
                         <ul className="space-y-3">
-                            <li><Link href="/privacy-policy" className="text-gray-200 hover:text-white transition text-lg">Privacy Policy</Link></li>
-                            <li><Link href="/terms-of-service" className="text-gray-200 hover:text-white transition text-lg">Terms of Service</Link></li>
+                            <li><Link href="/privacy" className="text-gray-200 hover:text-white transition text-lg">Privacy Policy</Link></li>
+                            <li><Link href="/terms" className="text-gray-200 hover:text-white transition text-lg">Terms of Service</Link></li>
                             <li><Link href="/gdpr-compliance" className="text-gray-200 hover:text-white transition text-lg">GDPR Compliance</Link></li>
                         </ul>
                     </div>
