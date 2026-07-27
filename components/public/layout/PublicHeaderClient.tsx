@@ -70,13 +70,13 @@ export function PublicHeaderClient() {
                                     Contact
                                 </Link>
                                 <Link
-                                    href="/privacy-policy"
+                                    href="/privacy"
                                     className="block px-4 py-2 text-sm text-[#655B50] hover:bg-stone-200 font-bold"
                                 >
                                     Privacy Policy
                                 </Link>
                                 <Link
-                                    href="/terms-of-service"
+                                    href="/terms"
                                     className="block px-4 py-2 text-sm text-[#655B50] hover:bg-stone-200 font-bold"
                                 >
                                     Terms of Service
