@@ -215,9 +215,9 @@ export default function GDPRCompliancePage() {
                     </p>
                     <div className="flex items-center">
                         <i className="fas fa-link text-purple-500 mr-3"></i>
-                        <a href="/privacy-policy" className="text-purple-600 hover:text-purple-800 font-medium">
+                        <Link href="/privacy" className="text-purple-600 hover:text-purple-800 font-medium">
                             Review our Privacy Policy for detailed information
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </div>
@@ -229,7 +229,7 @@ export default function GDPRCompliancePage() {
                         <p className="text-gray-600">Need more information about data protection?</p>
                     </div>
                     <div className="flex space-x-4">
-                        <Link href="/privacy-policy" className="bg-gray-100 text-gray-800 font-medium py-2 px-6 rounded-lg hover:bg-gray-200 transition">
+                        <Link href="/privacy" className="bg-gray-100 text-gray-800 font-medium py-2 px-6 rounded-lg hover:bg-gray-200 transition">
                             Privacy Policy
                         </Link>
                         <Link href="/" className="bg-linear-to-r from-purple-600 to-pink-500 text-white font-medium py-2 px-6 rounded-lg hover:opacity-90 transition">

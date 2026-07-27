@@ -153,8 +153,8 @@ export const FOOTER_NAV: NavigationSection[] = [
   {
     title: 'Legal',
     items: [
-      { name: 'Privacy Policy', href: '/privacy-policy' },
-      { name: 'Terms of Service', href: '/terms-of-service' },
+      { name: 'Privacy Policy', href: '/privacy' },
+      { name: 'Terms of Service', href: '/terms' },
       { name: 'Cookie Policy', href: '/cookie-policy' },
       { name: 'Licenses', href: '/licenses' },
     ],
